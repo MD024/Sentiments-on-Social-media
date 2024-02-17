@@ -1,4 +1,4 @@
-# Sentiments-on-Social-media
+# Social-media-Sentiment-analysis
 
 Objectives:
 
